@@ -1,0 +1,35 @@
+
+ProductVersion to 6.0
+ProductBuildVersion to 10A406
+
+*******************************************
+DOWNGRADE:
+1. Jailbreak 9.3.5 with Phœnix
+2. Install Filza in Cydia
+3. Go to /System/Library/CoreServices/SystemVersion.plist & change ProductVersion & ProductBuildVersion
+4. Reboot
+5. Download and update to 8.4.1
+6. Full Reset
+7. Reboot
+
+*******************************************
+JAILBREAK:
+1. Jailbreak 8.4 1 with Daibutsu
+2. Install Appsync Unified
+3. Install tvOS profile
+4. InstallTubeFixer *******************************************
+
+Checkmate Store Repo
+http://cydia.invoxiplaygames.uk
+https://cydia.invoxiplaygames.uk/beta
+
+Appsync Unified Repo
+https://bigfloppa234.github.io/repo
+
+Old IOS apps
+https://repo.mtmdev.org
+https://0xilis.github.io/repo
+https://apt.alfhaily.me
+https://repo.unlimapps.com
+https://beta.unlimapps.com
+https://haoict.github.io/cydia
